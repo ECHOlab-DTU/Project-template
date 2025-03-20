@@ -34,7 +34,6 @@ You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting
 ✅ Done! Your repository now has a structured README. 
 
 
-
 # Copy the content below the line:
 
 ![Header](Header_Template.png)
