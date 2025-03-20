@@ -29,7 +29,7 @@ You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting
 Template to copy:
 ---  
 
-[Project image header](path/to/your/image.png)  
+![Project image header](path/to/your/image.png)  
 
 ### Project title
 
