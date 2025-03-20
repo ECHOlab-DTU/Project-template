@@ -1,5 +1,3 @@
-
-
 ![ECHO Lab Banner](path/to/your/image.png)  
 
 ## ECHO Lab – Readme file template
@@ -7,7 +5,7 @@ This is a readme.md template that you can can copy and costumise to showcase pro
 
 You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting-with-large-ethnographic-data-workshop
 
---
+
 ## How to Use This Template:  
 
 ### STEP 1: Create a New Repository  
@@ -27,6 +25,8 @@ You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting
 
 ✅ Done! Your repository now has a structured README. 
 
+
+Template to copy: ->
 ---  
 
 ###Project title
