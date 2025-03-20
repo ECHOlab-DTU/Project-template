@@ -35,7 +35,7 @@ You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting
 ### STEP 3: Save Your Changes  
 - Scroll down and click **"Commit changes"** (the green button on the top right corner)
 
-✅ Done! Your repository now has a structured README. 
+✅ Done! Your repository now has a structured README.md. 
 
 
 
