@@ -32,7 +32,7 @@ You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting
 
 # Content to copy:
 
-![Header](.THUMBNAIL)
+![Header](.Header_Template.png)
 
 ### Project title
 
