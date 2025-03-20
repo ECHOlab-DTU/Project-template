@@ -26,9 +26,12 @@ You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting
 ✅ Done! Your repository now has a structured README. 
 
 
-Template to copy: ->
+Template to copy:
 ---  
 
-###Project title
+[Project image header](path/to/your/image.png)  
+
+### Project title
+
 
 
