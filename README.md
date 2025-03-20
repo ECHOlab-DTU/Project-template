@@ -1,4 +1,4 @@
-![ECHO Lab Banner](Logo_payoff.png)  
+<img src="Logo_payoff.png" alt="ECHO Lab Banner" width="600">
 
 ## ECHO Lab – Readme file template
 This is a readme.md template that you can can copy and costumise to showcase projects done with Echo lab. 
