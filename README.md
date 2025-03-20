@@ -1,4 +1,4 @@
-<img src="Logo_payoff.png" alt="ECHO Lab Banner" width="200">
+<img src="Logo_payoff.png" alt="ECHO Lab Logo" width="200">
 
 # ECHO Lab – Templates to showcase projects
 
@@ -6,7 +6,7 @@ We want to make it easy for you to share your projects done with ECHO lab. To he
 
 1. PDF Project template: https://www.canva.com/design/DAGiE7cdJk0/MKpu563zHkc2bITMBoH0tA/edit
 
-<img src="Pdf_example.png" width="200">
+<img src="images/Pdf_example.png" alt="Pdf with project description" width="200">
 
 Below you can also find readme.md file guide and template that you can can copy and costumise to showcase projects done with Echo lab. 
 You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting-with-large-ethnographic-data-workshop
