@@ -8,9 +8,7 @@ We want to make it easy for you to share your projects done with ECHO lab. To he
 
 <img src="images/Pdf_example.png" alt="Pdf with project description" width="200">
 
-**2. GitHub README.md Template and Guide**: Below, you'll find a guide and template for a README.md file that you can copy and customize to showcase your projects developed with ECHO Lab. You can do pages like this one: 
-
-You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting-with-large-ethnographic-data-workshop
+**2. GitHub README.md Template and Guide**: Below, you'll find a guide and template for a README.md file that you can copy and customize to showcase your projects developed with ECHO Lab. You can do pages like this one:  https://github.com/ECHOlab-DTU/Experimenting-with-large-ethnographic-data-workshop
 
 # GitHub README.md - How to create a new file:  
 
