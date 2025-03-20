@@ -31,11 +31,11 @@ You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting
 
 
 # Content to copy:
----  
 
-![Project image header](THUMBNAIL FOR README.png)  
+![Header](.THUMBNAIL)
 
 ### Project title
 
+---  
 
 
