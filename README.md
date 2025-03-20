@@ -9,7 +9,7 @@ You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting
 # How to Use This Template:  
 
 ### STEP 1: Create a New Repository  
-- Go to [GitHub](https://github.com), log in to ECHOlab account and click **"New repository"**.  
+- Go to [GitHub](https://github.com), log in to ECHOlab account and click "New repository".  
 - Add the repository details (name, description, etc.).  
 
 **Check the box** that says **"Add a README file"**.  
