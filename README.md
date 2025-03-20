@@ -23,9 +23,9 @@ You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting
 
 **Resources**
 
-For creating Header images: https://www.canva.com/design/DAGiFLr-UVA/noVd_VitoC5EiZEz8TRrUw/edit
-For creating a PDF version of the project and upload it to the readme: https://www.canva.com/design/DAGiE7cdJk0/MKpu563zHkc2bITMBoH0tA/edit
-For styiling content: you can check this Markdown guide for tips: https://www.markdownguide.org/basic-syntax/
+- For creating Header images: https://www.canva.com/design/DAGiFLr-UVA/noVd_VitoC5EiZEz8TRrUw/edit
+- For creating a PDF version of the project and upload it to the readme: https://www.canva.com/design/DAGiE7cdJk0/MKpu563zHkc2bITMBoH0tA/edit
+- For styiling content: you can check this Markdown guide for tips: https://www.markdownguide.org/basic-syntax/
 
 
 ### STEP 3: Save Your Changes  
