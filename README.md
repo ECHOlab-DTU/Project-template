@@ -21,7 +21,12 @@ You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting
 - Click the pencil icon to edit.
 - Copy the content of this readme file below, paste it in and replace the placeholder text with your project details.
 
-**If you want to stylize your content differently**, you can check this Markdown guide for tips: https://www.markdownguide.org/basic-syntax/
+**Resources**
+
+For creating Header images: https://www.canva.com/design/DAGiFLr-UVA/noVd_VitoC5EiZEz8TRrUw/edit
+For creating a PDF version of the project and upload it to the readme: https://www.canva.com/design/DAGiE7cdJk0/MKpu563zHkc2bITMBoH0tA/edit
+For styiling content: you can check this Markdown guide for tips: https://www.markdownguide.org/basic-syntax/
+
 
 ### STEP 3: Save Your Changes  
 - Scroll down and click **"Commit changes"**.  
@@ -34,7 +39,8 @@ You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting
 
 ![Header](Header_Template.png)
 
-### Project title
+## Project title
+Add a short desciption of the project here. 
 
 ---  
 
