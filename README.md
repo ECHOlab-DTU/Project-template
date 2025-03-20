@@ -12,7 +12,9 @@ We want to make it easy for you to share your projects done with ECHO lab. To he
 
 You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting-with-large-ethnographic-data-workshop
 
-## GitHub README.md - How to Use This Template:  
+# GitHub README.md 
+
+## How to Use This Template:  
 
 ### STEP 1: Create a New Repository  
 - Go to [GitHub](https://github.com), log in to ECHOlab account and click "New repository".  
@@ -38,7 +40,8 @@ You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting
 ✅ Done! Your repository now has a structured README. 
 
 
-# Copy the content below the line:
+## Copy the content below the line:
+---
 
 ![Header](Header_Template.png)
 
