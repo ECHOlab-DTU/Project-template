@@ -1,10 +1,15 @@
 <img src="Logo_payoff.png" alt="ECHO Lab Banner" width="200">
 
-# ECHO Lab – Readme file template
-This is a readme.md template that you can can copy and costumise to showcase projects done with Echo lab. 
+# ECHO Lab – Templates to showcase projects
 
+We want to make it easy for you to share your projects done with ECHO lab. To help you get started, we've put together a couple of resources:
+
+1. PDF Project template: https://www.canva.com/design/DAGiE7cdJk0/MKpu563zHkc2bITMBoH0tA/edit
+
+<img src="Logo_payoff.png" alt="ECHO Lab Banner" width="200">
+
+Below you can also find readme.md file guide and template that you can can copy and costumise to showcase projects done with Echo lab. 
 You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting-with-large-ethnographic-data-workshop
-
 
 
 # How to Use This Template:  
@@ -24,7 +29,6 @@ You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting
 **Resources**
 
 - For creating Header images: https://www.canva.com/design/DAGiFLr-UVA/noVd_VitoC5EiZEz8TRrUw/edit
-- For creating a PDF version of the project and upload it to the README.md: https://www.canva.com/design/DAGiE7cdJk0/MKpu563zHkc2bITMBoH0tA/edit
 - For styiling content: you can check this Markdown guide for tips: https://www.markdownguide.org/basic-syntax/
 
 
