@@ -2,8 +2,8 @@
 
 ![ECHO Lab Banner](path/to/your/image.png)  
 
-### ECHO Lab – Project template
-This is a readme file template that you can can clone and costumise to showcase projects done with Echo lab. 
+### ECHO Lab – Readme file template
+This is a readme.md template that you can can copy and costumise to showcase projects done with Echo lab. 
 
 You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting-with-large-ethnographic-data-workshop
 
