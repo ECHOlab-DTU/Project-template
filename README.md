@@ -55,11 +55,11 @@ You can also add documents like pdfs:
 ---  
 ## Section 1
 
-# Step 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ut laoreet quam, vel feugiat ipsum. Nullam quis mattis nisi. Ut lacinia lobortis sem non mollis.  Cnsectetur adipiscing elit. 
+### Step 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ut laoreet quam, vel feugiat ipsum. Nullam quis mattis nisi. Ut lacinia lobortis sem non mollis.  Cnsectetur adipiscing elit. 
 
 ![Imagebody](Example_image.JPG)
 
-# Step 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ut laoreet quam, vel feugiat ipsum. Nullam quis mattis nisi. Ut lacinia lobortis sem non mollis.  Cnsectetur adipiscing elit. 
+### Step 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ut laoreet quam, vel feugiat ipsum. Nullam quis mattis nisi. Ut lacinia lobortis sem non mollis.  Cnsectetur adipiscing elit. 
 
 ---  
 ## Section 2
