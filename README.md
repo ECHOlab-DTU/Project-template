@@ -35,7 +35,7 @@ You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting
 
 
 
-# Content to copy:
+# Copy the content below the line:
 
 ![Header](Header_Template.png)
 
