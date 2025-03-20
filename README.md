@@ -40,8 +40,34 @@ You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting
 ![Header](Header_Template.png)
 
 ## Project title
-Add a short desciption of the project here. 
+Add a short desciption of the project here. A concise overview of the project's purpose and what it aims to solve.
+
+You can also add documents like pdfs: 
+[Link Text](Project_Description.pdf)
 
 ---  
+## Section 1
+
+#Step 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ut laoreet quam, vel feugiat ipsum. Nullam quis mattis nisi. Ut lacinia lobortis sem non mollis.  Cnsectetur adipiscing elit. 
+
+![Imagebody](Example_image.JPG)
+
+#Step 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ut laoreet quam, vel feugiat ipsum. Nullam quis mattis nisi. Ut lacinia lobortis sem non mollis.  Cnsectetur adipiscing elit. 
+
+---  
+## Section 2
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ut laoreet quam, vel feugiat ipsum. Nullam quis mattis nisi. Ut lacinia lobortis sem non mollis.  Cnsectetur adipiscing elit. 
+
+---  
+## Contributors/Acknowledgements:
+
+
+---
+## Contact: 
+
+apuun@dtu.dk 
+sarfe@dtu.dk
+
 
 
