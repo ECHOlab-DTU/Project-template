@@ -1,2 +1,34 @@
-# Project-template
-Template for project / workshop
+
+
+![ECHO Lab Banner](path/to/your/image.png)  
+
+### ECHO Lab – Project template
+This is a readme file template that you can can clone and costumise to showcase projects done with Echo lab. 
+
+You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting-with-large-ethnographic-data-workshop
+
+---
+### How to Use This Template:  
+
+### STEP 1: Create a New Repository  
+- Go to [GitHub](https://github.com), log in to ECHOlab account and click **"New repository"**.  
+- Add the repository details (name, description, etc.).  
+
+**Check the box** that says **"Add a README file"**.  
+
+### STEP 2: Edit the README on GitHub  
+- Open the repository.  
+- Click on `README.md`.  
+- Click the pencil icon to edit.
+- Copy the content of this readme file below, paste it in and replace the placeholder text with your project details.
+
+### STEP 3: Save Your Changes  
+- Scroll down and click **"Commit changes"**.  
+
+✅ Done! Your repository now has a structured README. 
+
+---  
+
+###Project title
+
+
