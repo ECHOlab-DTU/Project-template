@@ -20,13 +20,15 @@ You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting
 - Click the pencil icon to edit.
 - Copy the content of this readme file below, paste it in and replace the placeholder text with your project details.
 
+**If you want to stylize your content differently**, you can check this Markdown guide for tips: https://www.markdownguide.org/basic-syntax/
+
 ### STEP 3: Save Your Changes  
 - Scroll down and click **"Commit changes"**.  
 
 ✅ Done! Your repository now has a structured README. 
 
 
-Template to copy:
+# Content to copy:
 ---  
 
 ![Project image header](path/to/your/image.png)  
