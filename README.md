@@ -29,7 +29,7 @@ You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting
 **Resources**
 
 - For creating Header images: https://www.canva.com/design/DAGiFLr-UVA/noVd_VitoC5EiZEz8TRrUw/edit
-- For styiling content: you can check this Markdown guide for tips: https://www.markdownguide.org/basic-syntax/
+- For styling content: you can check this Markdown guide for tips: https://www.markdownguide.org/basic-syntax/
 
 
 ### STEP 3: Save Your Changes  
@@ -47,7 +47,7 @@ You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting
 ![Header](Header_Template.png)
 
 ## Project title
-Add a short desciption of the project here. A concise overview of the project's purpose and what it aims to solve.
+Add a short description of the project here. A concise overview of the project's purpose and what it aims to solve.
 
 You can also add documents like pdfs: 
 [Link Text](Project_Description.pdf)
