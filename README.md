@@ -58,7 +58,7 @@ You can also add documents like pdfs:
 ### Step 1: Title
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ut laoreet quam, vel feugiat ipsum. Nullam quis mattis nisi. Ut lacinia lobortis sem non mollis.  Cnsectetur adipiscing elit. 
 
-![Imagebody](Example_image.JPG)
+<img src="Example_image.JPG" alt="A person looking at the floor" width="500">
 
 ### Step 2: Title
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ut laoreet quam, vel feugiat ipsum. Nullam quis mattis nisi. Ut lacinia lobortis sem non mollis.  Cnsectetur adipiscing elit. 
