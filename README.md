@@ -1,6 +1,6 @@
 <img src="Logo_payoff.png" alt="ECHO Lab Logo" width="200">
 
-# ECHO Lab – Templates to showcase projects
+# Templates to showcase projects
 
 We want to make it easy for you to share your projects done with ECHO lab. To help you get started, we've put together a couple of resources:
 
