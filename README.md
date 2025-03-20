@@ -33,7 +33,7 @@ You can create pages like this one: https://github.com/ECHOlab-DTU/Experimenting
 # Content to copy:
 ---  
 
-![Project image header](path/to/your/image.png)  
+![Project image header](THUMBNAIL FOR README.png)  
 
 ### Project title
 
