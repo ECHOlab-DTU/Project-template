@@ -9,8 +9,8 @@ Link: https://www.canva.com/design/DAGiE7cdJk0/MKpu563zHkc2bITMBoH0tA/edit
 
 <img src="images/Pdf_example.png" alt="Pdf with project description" width="200">
 
-**2. Event announcemnntse**: use this template when there is a new event you want to announce.
-Link: https://www.canva.com/design/DAGiE7cdJk0/MKpu563zHkc2bITMBoH0tA/edit
+**2. Lab announcements**: use this template when there is a new event you want to announce.
+Link: https://www.canva.com/design/DAGi0TXkpPs/qWj_RFDWjdd0QueTIwKMpQ/edit
 
 <img src="images/Pdf_example.png" alt="Pdf with project description" width="200">
 
