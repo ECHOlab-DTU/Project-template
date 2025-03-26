@@ -4,11 +4,17 @@
 
 We want to make it easy for you to share your projects done with ECHO lab. To help you get started, we've put together a couple of resources:
 
-**1. PDF Project template**: https://www.canva.com/design/DAGiE7cdJk0/MKpu563zHkc2bITMBoH0tA/edit
+**1. PDF Project Note template*: use this template showcase projects in the Echolab Github page or print them as posters.
+Link: https://www.canva.com/design/DAGiE7cdJk0/MKpu563zHkc2bITMBoH0tA/edit
 
 <img src="images/Pdf_example.png" alt="Pdf with project description" width="200">
 
-**2. GitHub README.md Template and Guide**: Below, you'll find a guide and template for a README.md file that you can copy and customize to showcase your projects developed with ECHO Lab. You can do pages like this one:  https://github.com/ECHOlab-DTU/Experimenting-with-large-ethnographic-data-workshop
+**2. Event announcemnntse**: use this template when there is a new event you want to announce.
+Link: https://www.canva.com/design/DAGiE7cdJk0/MKpu563zHkc2bITMBoH0tA/edit
+
+<img src="images/Pdf_example.png" alt="Pdf with project description" width="200">
+
+**3. GitHub README.md Template and Guide**: Below, you'll find a guide and template for a README.md file that you can copy and customize to showcase your projects developed with ECHO Lab. You can do pages like this one:  https://github.com/ECHOlab-DTU/Experimenting-with-large-ethnographic-data-workshop
 
 # GitHub README.md - How to create a new file:  
 
