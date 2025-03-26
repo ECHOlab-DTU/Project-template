@@ -16,9 +16,7 @@ Link: https://www.canva.com/design/DAGi0TXkpPs/qWj_RFDWjdd0QueTIwKMpQ/edit
 
 **3. GitHub README.md Template and Guide**: Below, you'll find a guide and template for a README.md file that you can copy and customize to showcase your projects developed with ECHO Lab. You can do pages like this one:  https://github.com/ECHOlab-DTU/Experimenting-with-large-ethnographic-data-workshop
 
-.
-.
-.
+
 
 
 # GitHub README.md - How to create a new file:  
