@@ -4,7 +4,7 @@
 
 We want to make it easy for you to share your projects done with ECHO lab. To help you get started, we've put together a couple of resources:
 
-**1. PDF Project Note template*: use this template showcase projects in the Echolab Github page or print them as posters.
+**1. PDF Project Note template**: use this template showcase projects in the Echolab Github page or print them as posters.
 Link: https://www.canva.com/design/DAGiE7cdJk0/MKpu563zHkc2bITMBoH0tA/edit
 
 <img src="images/Pdf_example.png" alt="Pdf with project description" width="200">
