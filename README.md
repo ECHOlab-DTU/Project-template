@@ -7,7 +7,7 @@ We want to make it easy for you to share projects done with ECHO lab. To help yo
 ## To announce upcoming projects or workshops:
 
 **1. Lab announcements**: use this template when there is a new event you want to announce. 
-Link: https://www.canva.com/design/DAGi0TXkpPs/qWj_RFDWjdd0QueTIwKMpQ/edit
+Link: https://www.canva.com/design/DAGi0TXkpPs/qWj_RFDWjdd0QueTIwKMpQ/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0
 
 <img src="images/Pdf_example.png" alt="Pdf with project description" width="200">
 
